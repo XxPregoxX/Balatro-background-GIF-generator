@@ -12,7 +12,7 @@ A Python utility that leverages the GPU to render GLSL Fragment Shaders (Shadert
 ## 💻 How to Use
 
 1. Clone this repository.
-2. Place your GLSL shader file in the root folder and name it `balatro.frag` (or update `SHADER_NAME` in the script).
+2. Place your GLSL shader file in the root folder and name it `balatro.txt` (or update `SHADER_NAME` in the script).
 3. Set up your virtual environment and install dependencies:
    ```bash
    pip install -r requirements.txt
